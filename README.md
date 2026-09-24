@@ -1,4 +1,4 @@
-# CAN-Based-Automotive-Dashboard Using PIC18F4580
+# CAN-Based-Automotive-Dashboard using PIC18F4580
 
 
 ## OVERVIEW
