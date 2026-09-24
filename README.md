@@ -136,27 +136,27 @@ Each parameter is assigned a unique **CAN Message ID**, allowing ECU3 to identif
 ## PROJECT STRUCTURE
 
 
-Automotive-CAN-Based-Dashboard/
+Automotive-CAN-Based-Dashboard
 
 
 ├── ECU1
-│   ├── Speed related files
+├── Speed related files
 
 │   ├── Gear related files
 
 │   └── Supporting driver files
-│
+
 
 ├── ECU2
-│   ├── RPM related files
+├── RPM related files
 
 │   ├── Indicator related files
 
 │   └── Supporting driver files
-│
+
 
 ├── ECU3
-│   ├── Dashboard display files
+├── Dashboard display files
 
 │   ├── CAN message handling files
 
