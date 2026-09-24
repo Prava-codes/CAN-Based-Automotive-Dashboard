@@ -140,7 +140,6 @@ Automotive-CAN-Based-Dashboard/
 
 
 ├── ECU1
-
 │   ├── Speed related files
 
 │   ├── Gear related files
@@ -149,7 +148,6 @@ Automotive-CAN-Based-Dashboard/
 │
 
 ├── ECU2
-
 │   ├── RPM related files
 
 │   ├── Indicator related files
@@ -158,7 +156,6 @@ Automotive-CAN-Based-Dashboard/
 │
 
 ├── ECU3
-
 │   ├── Dashboard display files
 
 │   ├── CAN message handling files
