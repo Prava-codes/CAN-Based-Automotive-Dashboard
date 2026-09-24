@@ -137,7 +137,8 @@ Each parameter is assigned a unique **CAN Message ID**, allowing ECU3 to identif
 
 
 Automotive-CAN-Based-Dashboard/
-│
+
+
 ├── ECU1
 
 │   ├── Speed related files
@@ -146,6 +147,7 @@ Automotive-CAN-Based-Dashboard/
 
 │   └── Supporting driver files
 │
+
 ├── ECU2
 
 │   ├── RPM related files
@@ -154,6 +156,7 @@ Automotive-CAN-Based-Dashboard/
 
 │   └── Supporting driver files
 │
+
 ├── ECU3
 
 │   ├── Dashboard display files
